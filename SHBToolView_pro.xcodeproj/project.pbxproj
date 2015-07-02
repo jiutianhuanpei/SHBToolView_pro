@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4D5951561B4510A00012A7BA /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D5951531B4510A00012A7BA /* 1.png */; };
+		4D5951571B4510A00012A7BA /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D5951541B4510A00012A7BA /* 2.png */; };
+		4D5951581B4510A00012A7BA /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D5951551B4510A00012A7BA /* 3.png */; };
 		4D7011BF1B42325800C2839F /* AFAudioRouter.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D7011BC1B42325800C2839F /* AFAudioRouter.m */; };
 		4D7011C01B42325800C2839F /* AFSoundManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D7011BE1B42325800C2839F /* AFSoundManager.m */; };
 		4D7011C31B4237EF00C2839F /* SoundManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D7011C21B4237EF00C2839F /* SoundManager.m */; };
@@ -33,6 +36,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4D5951531B4510A00012A7BA /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		4D5951541B4510A00012A7BA /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		4D5951551B4510A00012A7BA /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
 		4D7011BB1B42325800C2839F /* AFAudioRouter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFAudioRouter.h; sourceTree = "<group>"; };
 		4D7011BC1B42325800C2839F /* AFAudioRouter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFAudioRouter.m; sourceTree = "<group>"; };
 		4D7011BD1B42325800C2839F /* AFSoundManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFSoundManager.h; sourceTree = "<group>"; };
@@ -125,6 +131,9 @@
 		4D7270261B412EE40088B2D1 /* SHBToolView_pro */ = {
 			isa = PBXGroup;
 			children = (
+				4D5951531B4510A00012A7BA /* 1.png */,
+				4D5951541B4510A00012A7BA /* 2.png */,
+				4D5951551B4510A00012A7BA /* 3.png */,
 				4D7270531B41325D0088B2D1 /* lame */,
 				4D72704D1B4132010088B2D1 /* Utils.h */,
 				4D72704E1B4132010088B2D1 /* Utils.m */,
@@ -269,7 +278,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4D5951581B4510A00012A7BA /* 3.png in Resources */,
+				4D5951561B4510A00012A7BA /* 1.png in Resources */,
 				4D7270321B412EE40088B2D1 /* LaunchScreen.xib in Resources */,
+				4D5951571B4510A00012A7BA /* 2.png in Resources */,
 				4D72702F1B412EE40088B2D1 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
